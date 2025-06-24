@@ -64,7 +64,7 @@ Designed for multi-platform integration—including web and mobile—the backend
    ```bash
    npm start
 
-Server will run on `http://localhost:3000`
+Server will run on `http://localhost:4000`
 
 **🚀 Usage**
 **🔄 Chat Endpoint**
